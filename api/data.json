@@ -1,0 +1,98 @@
+[
+    {
+        "id": "Member-001",
+        "full_name": "John Doe",
+        "nicknames": "John",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-002",
+        "full_name": "Jane Smith",
+        "nicknames": "Jane",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-003",
+        "full_name": "Robert Johnson",
+        "nicknames": "Rob",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-004",
+        "full_name": "Sarah Anderson",
+        "nicknames": "Sara",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-005",
+        "full_name": "Michael Wilson",
+        "nicknames": "Mike",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-006",
+        "full_name": "Emily Davis",
+        "nicknames": "Em",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-007",
+        "full_name": "William Taylor",
+        "nicknames": "Will",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-008",
+        "full_name": "Olivia Brown",
+        "nicknames": "Liv",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-009",
+        "full_name": "James Martin",
+        "nicknames": "Jim",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-010",
+        "full_name": "Linda Miller",
+        "nicknames": "Lin",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-011",
+        "full_name": "Daniel Smith",
+        "nicknames": "Dan",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    },
+    {
+        "id": "Member-012",
+        "full_name": "Sophia Wilson",
+        "nicknames": "Sophie",
+        "github": "#",
+        "linkedin": "#",
+        "email": "#"
+    }
+]
