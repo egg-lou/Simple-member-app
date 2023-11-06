@@ -2,6 +2,13 @@
 
 This is a simple members app that can serve as a base for you to work with
 
+| Technology | Use |
+|------------|-----|
+|React + Vite + TypeScript|Frontend|
+|FastAPI + Uvicorn|Backend|
+
+
+
 Instructions API
 
 ```bash
